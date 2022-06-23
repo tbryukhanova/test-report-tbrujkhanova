@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 23 12:57:42 GMT 2022","Thu Jun 23 12:57:42 GMT 2022","517","","Минифреймворк","","Минифреймворк","Test set with parameters","Test set with parameters",""
+"passed","Thu Jun 23 12:57:42 GMT 2022","Thu Jun 23 12:57:42 GMT 2022","118","","Минифреймворк","","Минифреймворк","Negative test","Negative test",""
+"passed","Thu Jun 23 12:57:42 GMT 2022","Thu Jun 23 12:57:42 GMT 2022","178","","Минифреймворк","","Минифреймворк","Positive test","Positive test",""
